@@ -1,0 +1,17 @@
+{
+  "name": "markdown-sample",
+  "version": "1.0.0",
+  "description": "sample for markdown",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "marked": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumar",
+  "license": "ISC"
+}
